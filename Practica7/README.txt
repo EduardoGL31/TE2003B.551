@@ -1,1 +1,1 @@
-Contador ascendente y descendente en 4 digitos 7 segmentos con espejo a 8 LEDS
+4-digit 7-segment up/down counter with mirror with 8 LEDS
