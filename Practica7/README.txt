@@ -1,0 +1,1 @@
+Contador ascendente y descendente en 4 digitos 7 segmentos con espejo a 8 LEDS
